@@ -23,9 +23,6 @@ nav form .form-control:focus {
 
 }
 
-.slideshow img {
-  max-width: 100%;
-}
 
 .watch-air{
   background: linear-gradient(90deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("https://res.cloudinary.com/muuba/image/upload/v1653008420/background-texture_zt6hbk.jpg");      
